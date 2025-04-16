@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AluraExercicios3Java/AluraExercicios3Java.iml" filepath="$PROJECT_DIR$/AluraExercicios3Java/AluraExercicios3Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AluraExercicios4Java/AluraExercicios4Java.iml" filepath="$PROJECT_DIR$/AluraExercicios4Java/AluraExercicios4Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AluraExercicios5Java/AluraExercicios5Java.iml" filepath="$PROJECT_DIR$/AluraExercicios5Java/AluraExercicios5Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AluraExerciciosOBJava.iml" filepath="$PROJECT_DIR$/AluraExerciciosOBJava.iml" />
+    </modules>
+  </component>
+</project>
